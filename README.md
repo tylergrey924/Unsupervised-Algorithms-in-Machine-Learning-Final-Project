@@ -43,6 +43,7 @@ market-regime-detection/
 ├── README.md
 └── .gitignore
 
+```
 
 ---
 
