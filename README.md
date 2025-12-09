@@ -29,6 +29,8 @@ The project uses both **probabilistic modeling (Gaussian Mixture Models)** and *
 
 ## 📂 Project Structure
 
+```plaintext
+
 market-regime-detection/
 │
 ├── data/
